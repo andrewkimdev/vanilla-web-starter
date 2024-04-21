@@ -1,4 +1,4 @@
-# Vanilla Web - Starter Project
+# Vanilla Web - Project Starter
 ## HTML / CSS / TypeScript
 
 ### Purpose: To write Vanilla HTML/CSS with TypeScript.
